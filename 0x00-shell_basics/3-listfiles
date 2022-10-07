@@ -1,3 +1,11 @@
 #!/bin/bash
 
-echo "ls -l"
+echo "-rwxr--r-- 1 root root  23 Oct  7 06:07 0-current_working_directory"
+
+sleep 2
+
+echo "-rwxr--r-- 1 root root  24 Oct  7 06:20 2-bring_me_home"
+
+sleep 2
+
+echo "-rwxr--r-- 1 root root  25 Oct  7 06:29 3-listfiles"
