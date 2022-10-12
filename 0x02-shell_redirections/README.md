@@ -1,1 +1,1 @@
-write a script that displays iata
+display content of file
