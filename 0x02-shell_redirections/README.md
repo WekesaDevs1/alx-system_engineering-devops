@@ -1,1 +1,1 @@
-write a script that displays third line
+write a script that displays iata
