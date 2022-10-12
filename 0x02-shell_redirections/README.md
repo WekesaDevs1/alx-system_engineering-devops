@@ -1,1 +1,1 @@
-write a script that displays the last ten lines
+display the contents of two files
