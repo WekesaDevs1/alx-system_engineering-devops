@@ -1,1 +1,1 @@
-write a script that displays the contents of "/etc/passwd"
+write a script that displays the last ten lines
