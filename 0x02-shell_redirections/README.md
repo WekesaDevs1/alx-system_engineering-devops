@@ -1,1 +1,1 @@
-write a script that prints third line
+write a script that displays third line
