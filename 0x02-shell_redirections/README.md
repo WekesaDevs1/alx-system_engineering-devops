@@ -1,1 +1,1 @@
-display contents of file
+display third line
